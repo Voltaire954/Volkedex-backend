@@ -9,10 +9,7 @@ venv/
 node_modules/
 dist/
 
-# Databases / compiled files
-*.db
-*.sqlite
-*.sqlite3
+
 
 # OS files
 .DS_Store
